@@ -1,0 +1,26 @@
+#galleryBody{
+	background-color: #49b966;
+	padding-top: 70;
+}
+
+#galleryJumbo{
+	
+	color: #49b966;
+	text-align: center;
+}
+
+#galleryNav{
+	
+	width: 100%;
+
+}
+
+#galleryNav a{
+	color: #49b966;
+	
+}
+
+.items {
+	
+	width: 50%;
+}
