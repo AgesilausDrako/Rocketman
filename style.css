@@ -1,3 +1,4 @@
+
 * {
 	margin: 0;
 	padding: 0;
@@ -33,5 +34,12 @@ footer {
 	text-align: center;
 	border-top: 5px solid #49b966;
 	width: 100%;
+}
+
+.jumbotron {
+  background-color: #49b966;
+  text-align: center;
+  color: white;
+  font-family: 'Gudea', sans-serif;
 }
 
